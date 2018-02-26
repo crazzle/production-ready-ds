@@ -1,0 +1,9 @@
+.vscode/
+.idea/
+*.log
+*.pdf
+spark-warehouse/
+metastore_db/
+ix_luigi/
+.DS_Store
+*.pyc
