@@ -1,0 +1,406 @@
+id;title;selftext;subreddit
+7z9g6u;Imposter Syndrome as Data Scientist;"I've been working as a Data Scientist with a Consultancy company in various domains - Bioinformatics, IOT, and Pharma - for nearly three years. 
+After reading up on a lot of posts here, I feel I should know much more by now. I've been testing the job market and have passed some interviews but they were not with large companies known for analytics. 
+
+Is there any guide or handbook which lists all the things one should know as a Data Scientist? I have been using this, but it only scratches the surface: http://www.itshared.org/2015/10/data-science-interview-questions.html#mathematics";datascience
+7z9djd;How much vacation time do you get?;"For people who work in the Data Science realm (Data Analysts, Data Scientists, even Data Engineers), how much vacation time do you get? If you get unlimited vacation time, how much time would you feel comfortable taking? How much sick time do you get? How many holidays?
+
+I searched /r/cscareerquestions and was able to get a sense for how much vacation time Software Engineers get, but couldn't find any similar information here. The O'Reilly Data Science Salary Survey also didn't include any vacation information.
+
+I can start. I am a Data Scientist in the Seattle area. I get 4 weeks PTO, unlimited sick time, and 12 holidays that are not floating. ";datascience
+7z9ais;Am I punching above my weight with these Kaggle challenges? (xpost /r/cscareerquestions);"So I'm trying to transition into the data science field. I took a 3-month data science boot camp in late 2016, and on top of that, I've taken some online courses on machine learning.  
+
+Specifically, I went through Stanford's CS231n (Computer Vision) and CS224n (Natural Language Processing) that they posted online. For those of you who don't know, Stanford's CS department basically posted all the lecture notes, assignments, and lecture videos for those two courses online so that regular people (even non-Stanford students) could go through them. Admittedly, I already knew a lot of the material they posted, and it seemed like much of those courses were sort of a cursory look at what modern day researchers in those fields are doing.  
+
+I decided to try my hand at [this](https://www.kaggle.com/c/data-science-bowl-2018) Kaggle challenge. Specifically, it's an image segmentation challenge, and image segmentation is one of the topics CS231n touched on. I tried my hand at it and wasn't really able to get above the 10th percentile of submissions.  
+
+I tried to look at what some other people were doing and I was shocked. I mean, these people were writing thousands of lines of code and writing incredibly complex models. It seemed like they really knew what they were doing and had a purpose to doing it. They seemed like actual CV researchers. Me, on the other hand? I was kind of just blindly fumbling around. I mean, my model was, like...50 lines of code total and pretty rudimentary.  
+
+So I'm wondering if I'm kind of out of my depth here with some of these Kaggle challenges. Are they just meant for people with more knowledge of these topics? Are they meant for actual researchers and CV scientists, as opposed to people who just went through some courses online? Or am I just going about this challenge all wrong?  ";datascience
+7z97va;AWS Summit 2018?;"Opinions on the AWS summits? Any reason for a data analyst/scientist to attend?
+
+They’re free and supposedly offer some cool workshops but are a bit light with the details. More AWS knowledge certainly can’t hurt, but I’m afraid it’s just going to end up being a big sales pitch. 
+
+Anyone attend a past AWS Summit attendee want to weigh in? ";datascience
+7z918e;[MAIN SPOILERS] Jon Snow did lie;"In S07 in expedition beyond the wall, Jon tells Jorah: ... *Lord commander Mormont thought you never come back to westoros.* 
+
+This is a lie. Jon knows it. Jorah knows it.
+
+But in S07 again when he could lie ""just a bit"" to Cersei for much more important matter of dealing with NK and his army, he refuses to lie.
+
+The difference is: the first time he lied because he thought (maybe) Jorah want to have his honor back (kind of) and the second time he didn't lie because of his own honor.
+
+So: in GoT a character can lie if honor demands. The true meaning of ""honor"" seems complex in GoT. It is certainly a mix of selfishness, judgement of people (after you), involving promises or not, ...
+
+Still: a lie is a lie.
+
+What do you think about the meaning of ""honor"" in GoT?";gameofthrones
+7z8umr;New Intern - Questions on Predictive Maintenance;"So I just landed a data science internship at a robotics company, which I'll be starting in the next couple of weeks. It looks like one of my first big projects will be on predictive maintenance (specifically on building a monitoring system for their existing models) and I wanted to get a head start. Searching my school's databases has done okay at becoming familiarized with some of the basics of PdM, but I'm wondering if anyone can help with some of the details. 
+
+I'm not too familiar with the specifics of the data just yet, but we essentially have a stream which collects data on the position of each axis of each robot, as well as a few other attributes (I want to say current flowing through each axis? Torque? Something like that). From what I understand the models are essentially unsupervised, as its cost-prohibitive to allow failures to occur.
+
+Anyway my three main questions are:
+
+
+* 1. How would I go about creating a feedback loop for PdM?
+* 2. What metrics could be used - if the data is unsupervised like I  suspect it is, then obviously accuracy/precision/recall/f1 are out. My guess so far would be to use uptime/downtime, or some sort of dollar savings relative to preventive maintenance instead of predictive. 
+* 3. How best to visualize these. I'm guessing this monitoring system is intended to be client-facing, so on top of developing understandable metrics it will be important to have useful visualizations. Also interested in knowing what kinds of tools are companies using to produce these visualizations.
+
+Thanks in advance for any help or advice. If anyone with experience in PdM can direct me toward any especially helpful papers/atricles I would really appreciate it!";datascience
+7z8q24;Struggling Data Analyst;"Hi all. I recently graduated uni and I've been working at my first job at a startup in SF doing a mix of product data analysis and marketing data analysis. 
+
+After about 5 months of working here, one of my biggest struggles has been being able to validate if the underlying data seems to look correct. I do a lot of query writing with SQL and get my queries validated from time to time but there appears to be inconsistencies between what my boss expects the results to be and what they are. I am one of the only ones at my company doing this and there isn't always a clear point of truth. 
+
+I understand that data validation and accuracy is an integral part of this industry, but I feel very overwhelmed with the expectations at times. I feel as though I am a bit more junior for my role. Is this a normal feeling for an entry level candidate?
+
+My boss is not happy with the inconsistencies and I feel that I am going to be let off soon simply because I haven't delivered up to his high expectations. I definitely want to improve but I just don't know what more I can do. I really enjoy working with data but feel lost and frustrated at times by the lack of clarity. Any advice would be much appreciated.";datascience
+7z8l8t;From Chemical Engineer to PhD?;"Hi All,
+
+Looking for some advice on my approach. I'm 29 and have hit of a bit of cross-roads in my life. I spent the last 7 years in industry, pursuing a lot of cost-reduction, continuous-improvement, quality improvements in the manufacturing sector. I have a few inventions and patents and papers on my resume but it looks more like an MBA candidate then a PhD candidate right now... but!
+
+I love the data part of my job. The analysis, the problem solving using data. I'm totally self taught, but considered the best at my company at what I do. I want to do more of it and I don't want to go down a career in management. I don't care about the money and so I'm thinking of going back to school for an applied statistics PhD. I love learning (spend all my free time learning and reading) and think I'd enjoy the process of a PhD.
+
+So far, I see three paths to get where I want to be. (Solving and researching problems in our world with data)
+
+-Take GRE's this summer, apply to PhD. programs for 2019.
+
+-Take a Masters in Math/Statistics for 2 years, then apply to PhD. programs. (Don't really want to do this because of cost)
+
+-Self teach myself everything and do kaggle competitions and get hired on as a data scientist somewhere.
+
+Is a PhD a possibility for me? Is a masters necessary before I apply? (I am extremely self-motivated and a skilled self-teacher) Can I compete as a Chemical Engineer graduate from top-40 school (graduated high honors with an A in Linear Algebra..) against all these math/stats people?";datascience
+7z8g1g;[EVERYTHING] Does anyone else think Arya's presentation in S1:E1 is counterintuitive to her development as a character?;"I've recently decided to rewatch the first season of GoT, at the same time as rereading the first book of ASOIAF, and I have to say, Arya's representation in the show really bewilders me. For example, Arya's is literally introduced as a warrior already, outshooting Bran with a bow, even as he is guided by his two older brothers. For me, this scene really took away a sense of transformation in the character of Arya. 
+
+After all, if Arya was allowed to practice shooting a bow to the point of outshooting her brother, hasn't the identity of Arya already been established? Why would her Lord father/ the rest of society look so negatively on her attempts to break gender norms, when these norms have clearly already been broken? How can Lord Eddard rationalize prohibiting her from yielding a sword when surely he was already aware of her ability with a bow?
+
+Has this scene struck anyone else as slightly odd? In addition, can anyone else think of other examples in which Arya's journey has been weirdly contradicted like this?";gameofthrones
+7z7zqt;Usual hiring timeframe;"Hello, 
+
+Can anyone with experience give their view on when is a good time to apply for data science jobs with mid-sized companies? How many months in advance is ideal? At career fairs I've received feedback from some companies that now is too early for a Sept 2018 start date, yet at the same time my friends who chose to work with the big four as research scientists or software devs already have closed their offers. 
+
+I don't know if I'm wasting my opportunities applying online to companies I haven't been able to meet in person or contact. I've sent messages to recruiters where applicable asking this question but have received very few replies. I'm nervous because I will need to start working as soon as I graduate and stop receiving my small stipend, and I obviously would want to start working in my intended career right out of the gate.
+
+I'm graduating with an MSc Computer Science in August 2018 in Montreal, Canada. I've already been turned down by one mid-sized company after getting quite far in the hiring process. I suspect a small part of the reason they didn't hire me was because my start date was so far in advance. 
+";datascience
+7z7xiv;[TV] A fanmade vid about Arya I made and wanted to share :) Hope it's serious enough for here;;gameofthrones
+7z7wg9;[Main Spoilers] Many Questions I have regarding season 8?;"•Does Tyrion still have his connections with Castle Black, We haven't heard about this since season 1.
+•Does a normal Weapon temporaley knock out a wight, and they can then get revived.
+•Are Any of the Remaining Memebers of Dany's Essos army going to turn up to fight for her?
+•Can Arrows be made out of Dragonglass?
+•If Valyrian Steel (Dragonsteel) and Dragonglass can kill White Walker can't one of The Dragons kill White Walkers?
+•If the Dragonfire could kill the White Walkers, Could Jon or Dany burn down Winterfell has a last ditch move.
+• How Many White Walkers Generals are there alive?
+•What Is the men of Dorne up to?
+•Would it make sense for Drogon to kill Viserion because Drogo killed Viserys
+•Will the On Screen Castle Black men survive the Breaking of the wall.
+•If there are any dragon eggs laid can they be hatched the same way as Dany's.";gameofthrones
+7z7trd;[EVERYTHING] Sansa's status in season 8.;Do you think Sansa dies early on in season 8? Sophie's hair is blonde again and she seems to spending most of her time far away from Belfast and it has me worried that they killed off Sansa early on in season 8 possibly very early in the series. It would really suck if they killed her off especially if they just have her get killed off by a Whitewalker or something without really proving whether she can play the game or not without Littlefinger's help. ;gameofthrones
+7z7l0y;[NO SPOILERS] Quick question regarding the fandom/lore/world as a whole...;"Does anyone know of any website or database out there - that isn't the Wiki - that is, for all intents and purposes, a Master Game of Thrones Fan site, similar to something as cool as (if not cooler than) [Pottermore!](https://www.pottermore.com/) for HP fans?
+
+
+
+
+If not, dead serious, who wants to build it with me? LFG :P";gameofthrones
+7z7e7q;[MAIN SPOILERS] I miss the show, so I made a little cartoon to take the edge off. Enjoy!;;gameofthrones
+7z7djr;[Everything] Guiding a buddy through his first viewing...;"I was wondering how much added detail I should give, if any at all, and when. For example, S6E7 when she Cersei says there’ll be a trial by combat and the Hound has been revealed to be alive, do I tell him about Cleganebowl? 
+
+My thought was I would never spoil anything. For example, I’m not gonna bring up R+L=J until he pieces it together himself when they show the Tower of Joy. 
+
+I dunno, just looking for suggestions and insight. I’ve been trying to get him into the show for years, and it’s almost weird to try to explain things without explaining too much. You have to be able to discern which moments are ambiguous to the point of needing explanation and which moments are vague on purpose (he was confused why winterfell was burned in S2, and I almost gave the whole thing away). ";gameofthrones
+7z7d5m;[MAIN SPOILERS] - The Night King's 'heritage';"Hey everyone,
+
+I know there are many theories about the Night King and stuff, but...
+
+Well, I was re-watching GoT and it just hit me, when Bran took over the 3ER's role in the story. I kept on thinking about that and the connection to the NK.
+
+Could that be possible that the Night King is actually not a single person but rather a 'title'? I mean something similar to Bran/3ER type of incarnation or so. Then, it seems pretty understandable the Night King would also need some 'succesor', who must probably have some strong talents/powers, similar to Bran, perhaps even king's blood (which Starks have, as they were first Kings in the North) What if all the boy 'sacrifices' actually were meant to find 'the true succesor'? I doubt all the boys survived to become the WW's (perhaps?) and the Night King might still be 'searching'.
+
+And one more thing. Could that be possible 3ER is also some kind of a 'weapon', created by the CotF?
+
+What do you think? Is that even possible?";gameofthrones
+7z70fa;Will neural networks make model based inference superfluous?;It seems that deep learning is changing the world. Will people still be doing model based inference 10 years from now? 20?;datascience
+7z6zns;"[Main Spoilers] 🂮 Jon Snow - ""King of Spades"" - Digital Illustration and Animation";;gameofthrones
+7z6s3k;Looking for a mentor in data science!;"Hi,
+
+Currently working at a fortune 500 doing basic data analysis in Tableau. Clustering, Linear regression, Correlation etc.
+
+I am looking to really elevate my data science knowledge with a mentor who can take me through predictive modeling as all the models I create have really low accuracy.
+
+Any help is appreciated!";datascience
+7z6fct;Tablet for Data Science;I’m curious, anyone uses an iPad? If so what is your workflow?;datascience
+7z6bqh;[EVERYTHING] Do you think that Sansa has...;"...similar scars and branding marks as Theon does when we see him take what is presumed to be his only bath in years? 
+
+We only see her once while married to Ramsey with a sleeveless gown and she was already bruised up and that was shortly after.";gameofthrones
+7z678l;[NO SPOILERS] Just getting my inner Melissandra on, in a little Scottish pub,nbd. Seamstress friend is going to embellish this dress heavily, yay:);;gameofthrones
+7z5zff;[Question] Help on a Kaggle competition.;"Hello guys, I've been tasked to tackle this [Kaggle competition](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction) After doing some datacamp courses. I won't lie, I'm completely in over my head, I'm not even sure how to start analysing such massive data.
+I'm especially looking at how to take all the columns into account as features without having to type their name every time.
+So, I'm looking for extensive resources on how to start with this and where I could begin with to analyse the data.
+
+Thanks a lot!";datascience
+7z5pwp;[NO SPOILERS] art of Balerion the black dread by Joshua Cairós;;gameofthrones
+7z5741;[MAIN SPOILERS] Maisie Williams have read the ending of S08, says it would be expensive to shoot multiple endings;;gameofthrones
+7z573q;[No Spoilers] So I finally started watching after so many years!;"I’m already on Season 3 after 9 days of watching. I can’t say enough how much I love it so far.  I wanted to share this with the community. I’m really savoring every moment because there are some movies and series that I wish I was watching for the first time just to be amazed as I once was. I know I’ll feel this way after finishing but I want to savor each moment and episode as it passes. 
+
+Despite all the positive things I can say about this series, I did find myself lost for the better part of two seasons. I didn’t understand the whole “lord” and “succession” system but I did some research and am really grasping it now!";gameofthrones
+7z51f7;[MAIN SPOILERS] There is a single season for each of the Lannister siblings in which they are broken down and emotionally and physically transformed for the rest of the series;;gameofthrones
+7z4uj4;Data science in Formula 1, MotoGP, NASCAR and other motorsports;It's not secret that those competitions are heavily data driven for a long time. Does anyone has any sources about data scientist/analyst roles in those competitions, about data infrastructure, technologies they use,... Anything that will provide some deeper understanding about how data science is involved in it.;datascience
+7z4mz0;[NO Spoilers] I just painted a little bit on our wall in the living room;;gameofthrones
+7z4bl7;[NO SPOILERS] Game of Thrones alternate poster (OC);;gameofthrones
+7z3925;Which one is better, a 1-year data science full time program in the US or a certificate course in data science in India?;;datascience
+7z2pdk;Stanford's Elements of Statistical Learning MOOC?;On the [wiki](https://www.reddit.com/r/datascience/wiki/index) in the MOOC section, there lists two Stanford classes, Statistical Learning and Elements of Statistical Learning. It appears the link for the 2nd one was taken down, is there another link somewhere or is the class removed?;datascience
+7z2i4b;[MAIN SPOILERS] GoT Character Tournament Round 2 Matches 17-24;"**What is this?**
+
+This is a tournament that includes 128 of the most memorable [GoT](https://www.hbo.com/game-of-thrones) characters. Each match includes 2 random characters, and you guys vote for your favorite. Whoever receives more votes wins and will move on to the next round. There is a wikia page included for each character if you click their name.
+
+For round 2, there will be 8 matches every other day. Round 2 ends once every character has played. 32 characters will move on to round 3.
+
+**Results:**
+
+Match 9: **Barristan Selmy** beat Jaqen H'ghar
+
+Match 10: **Hot Pie** beat Qyburn
+
+Match 11: **Bronn** beat Catelyn Stark
+
+Match 12: **Gendry** beat Orell
+
+Match 13: **Samwell Tarly** beat Theon Greyjoy
+
+Match 14: **Oberyn Martell** beat Tywin Lannister
+
+Match 15: **Lyanna Mormont** beat Wun Wun
+
+Match 16: **Stannis Baratheon** beat Qotho
+
+**Matches:**
+
+**Match 17:** [Maester Luwin] (http://gameofthrones.wikia.com/wiki/Maester_Luwin) vs [Hodor](http://gameofthrones.wikia.com/wiki/Hodor)
+
+**Match 18:** [Bran Stark](http://gameofthrones.wikia.com/wiki/Bran_Stark) vs [Night King](http://gameofthrones.wikia.com/wiki/Night_King)
+
+**Match 19:** [Margaery Tyrell](http://gameofthrones.wikia.com/wiki/Margaery_Tyrell) vs [Khal Drogo](http://gameofthrones.wikia.com/wiki/Khal_Drogo)
+
+**Match 20:** [Daenerys Targaryen](http://gameofthrones.wikia.com/wiki/Daenerys_Targaryen) vs [Yara Greyjoy](http://gameofthrones.wikia.com/wiki/Yara_Greyjoy)
+
+**Match 21:** [Brynden Tully](http://gameofthrones.wikia.com/wiki/Brynden_Tully) vs [Petyr Baelish](http://gameofthrones.wikia.com/wiki/Petyr_Baelish)
+
+**Match 22:** [Arya Stark](http://gameofthrones.wikia.com/wiki/Arya_Stark) vs [Nymeria Sand](http://gameofthrones.wikia.com/wiki/Nymeria_Sand)
+
+**Match 23:** [Varys](http://gameofthrones.wikia.com/wiki/Varys) vs [Eddison Tollett](http://gameofthrones.wikia.com/wiki/Eddison_Tollett)
+
+**Match 24:** [Tormund Giantsbane](http://gameofthrones.wikia.com/wiki/Tormund_Giantsbane) vs [Daario Naharis](http://gameofthrones.wikia.com/wiki/Daario_Naharis)
+
+》》》》**[Poll for Matches 17-24](https://docs.google.com/forms/d/e/1FAIpQLScbyBiZozoQEL31IdB7OzBAxcSDfWk_q_i2tep4q01uc6Ywcw/viewform)**《《《《
+
+**Characters moving on to round 3:**
+
+[Sandor Clegane](http://gameofthrones.wikia.com/wiki/Sandor_Clegane)
+
+[Missandei](http://gameofthrones.wikia.com/wiki/Missandei)
+
+[Brienne of Tarth](http://gameofthrones.wikia.com/wiki/Brienne_Tarth)
+
+[Podrick Payne](http://gameofthrones.wikia.com/wiki/Podrick_Payne)
+
+[Eddard Stark](http://gameofthrones.wikia.com/wiki/Eddard_Stark)
+
+[Jon Snow](http://gameofthrones.wikia.com/wiki/Jon_Snow)
+
+[Tyrion Lannister](http://gameofthrones.wikia.com/wiki/Tyrion_Lannister)
+
+[Davos Seaworth](http://gameofthrones.wikia.com/wiki/Davos_Seaworth)
+
+[Barristan Selmy](http://gameofthrones.wikia.com/wiki/Barristan_Selmy)
+
+[Hot Pie](http://gameofthrones.wikia.com/wiki/Hot_Pie)
+
+[Bronn](http://gameofthrones.wikia.com/wiki/Bronn)
+
+[Gendry](http://gameofthrones.wikia.com/wiki/Gendry)
+
+[Samwell Tarly](http://gameofthrones.wikia.com/wiki/Samwell_Tarly)
+
+[Oberyn Martell](http://gameofthrones.wikia.com/wiki/Oberyn_Martell)
+
+[Lyanna Mormont](http://gameofthrones.wikia.com/wiki/Lyanna_Mormont)
+
+[Stannis Baratheon](http://gameofthrones.wikia.com/wiki/Stannis_Baratheon)
+
+**Round 2 eliminations:**
+
+[Mance Rayder](http://gameofthrones.wikia.com/wiki/Mance_Rayder)
+
+[Alliser Thorne](http://gameofthrones.wikia.com/wiki/Alliser_Thorne)
+
+[Joffrey Baratheon](http://gameofthrones.wikia.com/wiki/Joffrey_Baratheon)
+
+[Lyanna Stark](http://gameofthrones.wikia.com/wiki/Lyanna_Stark)
+
+[Roose Bolton] (http://gameofthrones.wikia.com/wiki/Roose_Bolton)
+
+[Jojen Reed](http://gameofthrones.wikia.com/wiki/Jojen_Reed)
+
+[The Tickler](http://gameofthrones.wikia.com/wiki/The_Tickler)
+
+[Ramsay Bolton](http://gameofthrones.wikia.com/wiki/Ramsay_Snow)
+
+[Jaqen H'ghar](http://gameofthrones.wikia.com/wiki/Jaqen_H'ghar)
+
+[Qyburn](http://gameofthrones.wikia.com/wiki/Qyburn)
+
+[Catelyn Stark](http://gameofthrones.wikia.com/wiki/Catelyn_Stark)
+
+[Orell](http://gameofthrones.wikia.com/wiki/Orell)
+
+[Theon Greyjoy](http://gameofthrones.wikia.com/wiki/Theon_Greyjoy)
+
+[Tywin Lannister](http://gameofthrones.wikia.com/wiki/Tywin_Lannister)
+
+[Wun Wun](http://gameofthrones.wikia.com/wiki/Wun_Wun)
+
+[Qotho](http://gameofthrones.wikia.com/wiki/Qotho)
+
+**Round 1 eliminations:**
+
+[Anguy](http://gameofthrones.wikia.com/wiki/Anguy)
+
+[Wildling girl](http://gameofthrones.wikia.com/wiki/Wildling_girl)
+
+[Archmaester Ebrose](http://gameofthrones.wikia.com/wiki/Ebrose)
+
+[Ellaria Sand](http://gameofthrones.wikia.com/wiki/Ellaria_Sand)
+
+[Hizdahr zo Loraq](http://gameofthrones.wikia.com/wiki/Hizdahr_zo_Loraq)
+
+[Meera Reed](http://gameofthrones.wikia.com/wiki/Meera_Reed)
+
+[Lancel Lannister](http://gameofthrones.wikia.com/wiki/Lancel_Lannister)
+
+[Euron Greyjoy](http://gameofthrones.wikia.com/wiki/Euron_Greyjoy)
+
+[Janos Slynt](http://gameofthrones.wikia.com/wiki/Janos_Slynt)
+
+[Pypar](http://gameofthrones.wikia.com/wiki/Pypar)
+
+[Ros](http://gameofthrones.wikia.com/wiki/Ros)
+
+[Gregor Clegane](http://gameofthrones.wikia.com/wiki/Gregor_Clegane)
+
+[Leaf](http://gameofthrones.wikia.com/wiki/Leaf)
+
+[Renly Baratheon](http://gameofthrones.wikia.com/wiki/Renly_Baratheon)
+
+[Viserys Targaryen](http://gameofthrones.wikia.com/wiki/Viserys_Targaryen)
+
+[Randyll Tarly](http://gameofthrones.wikia.com/wiki/Randyll_Tarly)
+
+[Unella](http://gameofthrones.wikia.com/wiki/Unella)
+
+[Harrag](http://gameofthrones.wikia.com/wiki/Harrag)
+
+[Syrio Forel](http://gameofthrones.wikia.com/wiki/Syrio_Forel)
+
+[Thoros of Myr](http://gameofthrones.wikia.com/wiki/Thoros_of_Myr)
+
+[Shae](http://gameofthrones.wikia.com/wiki/Shae)
+
+[Locke](http://gameofthrones.wikia.com/wiki/Locke)
+
+[Boros Blount](http://gameofthrones.wikia.com/wiki/Boros_Blount)
+
+[Loras Tyrell](http://gameofthrones.wikia.com/wiki/Loras_Tyrell)
+
+[Ilyn Payne](http://gameofthrones.wikia.com/wiki/Ilyn_Payne)
+
+[Talisa Stark](http://gameofthrones.wikia.com/wiki/Talisa_Maegyr)
+
+[Beric Dondarrion] (http://gameofthrones.wikia.com/wiki/Beric_Dondarrion)
+
+[Jeor Mormont](http://gameofthrones.wikia.com/wiki/Jeor_Mormont)
+
+[Othell Yarwyck](http://gameofthrones.wikia.com/wiki/Othell_Yarwyck)
+
+[Kevan Lannister](http://gameofthrones.wikia.com/wiki/Kevan_Lannister)
+
+[Robin Arryn](http://gameofthrones.wikia.com/wiki/Robin_Arryn)
+
+[Tyene Sand](http://gameofthrones.wikia.com/wiki/Tyene_Sand)
+
+[Craster](http://gameofthrones.wikia.com/wiki/Craster)
+
+[Melisandre](http://gameofthrones.wikia.com/wiki/Melisandre)
+
+[Xaro Xhoan Daxos](http://gameofthrones.wikia.com/wiki/Xaro_Xhoan_Daxos)
+
+[Olly](http://gameofthrones.wikia.com/wiki/Olly)
+
+[Mirri Maz Duur](http://gameofthrones.wikia.com/wiki/Mirri_Maz_Duur)
+
+[Meryn Trant](http://gameofthrones.wikia.com/wiki/Meryn_Trant)
+
+[Myrcella Baratheon](http://gameofthrones.wikia.com/wiki/Myrcella_Baratheon)
+
+[Selyse Baratheon](http://gameofthrones.wikia.com/wiki/Selyse_Baratheon)
+
+[Maester Wolkan](http://gameofthrones.wikia.com/wiki/Wolkan)
+
+[Mace Tyrell](http://gameofthrones.wikia.com/wiki/Mace_Tyrell)
+
+[The Waif](http://gameofthrones.wikia.com/wiki/The_Waif)
+
+[Gilly](http://gameofthrones.wikia.com/wiki/Gilly)
+
+[Doran Martell](http://gameofthrones.wikia.com/wiki/Doran_Martell)
+
+[Lysa Arryn](http://gameofthrones.wikia.com/wiki/Lysa_Arryn)
+
+[Styr](http://gameofthrones.wikia.com/wiki/Styr)
+
+[Harald Karstark](http://gameofthrones.wikia.com/wiki/Harald_Karstark)
+
+[Dickon Tarly](http://gameofthrones.wikia.com/wiki/Dickon_Tarly)
+
+[Grenn](http://gameofthrones.wikia.com/wiki/Grenn)
+
+[Polliver](http://gameofthrones.wikia.com/wiki/Polliver)
+
+[Obara Sand](http://gameofthrones.wikia.com/wiki/Obara_Sand)
+
+[Lord of Bones](http://gameofthrones.wikia.com/wiki/Lord_of_Bones)
+
+[Arthur Dayne](http://gameofthrones.wikia.com/wiki/Arthur_Dayne)
+
+[Cersei Lannister](http://gameofthrones.wikia.com/wiki/Cersei_Lannister)
+
+[Balon Greyjoy](http://gameofthrones.wikia.com/wiki/Balon_Greyjoy)
+
+[Edmure Tully](http://gameofthrones.wikia.com/wiki/Edmure_Tully)
+
+[Grand Maester Pycelle](http://gameofthrones.wikia.com/wiki/Pycelle)
+
+[Shireen Baratheon](http://gameofthrones.wikia.com/wiki/Shireen_Baratheon)
+
+[High Sparrow](http://gameofthrones.wikia.com/wiki/High_Sparrow)
+
+[Dontos Hollard](http://gameofthrones.wikia.com/wiki/Dontos_Hollard)
+
+[Maester Aemon](http://gameofthrones.wikia.com/wiki/Aemon)
+
+[Myranda](http://gameofthrones.wikia.com/wiki/Myranda)
+
+[Yohn Royce](http://gameofthrones.wikia.com/wiki/Yohn_Royce)";gameofthrones
+7z22c6;OFF TOPIC: WHAT TO DO ABOUT GOOGLE SEARCHES;"Hi guys, there's a website which hosts my ABN information which used to be on the third page, which is now the FOURTH result when you google my name. Some girl who I had a fight with on tinder sussed out my facebook profile and got a guy to write a ""comment"" on this website saying I'm a huge woman abuser, there's a huge collection of me abusing women online, and I'm unfit for work and renting to.
+
+This wouldn't bother me as much (because its complete bullshit) if I didn't know for a FACT HR is going through this and probably either getting turned off by me or having some questions.
+
+I have no idea how to handle this. I've tried contacting the site admin who ignores me, I've tried contacting the company who handles the comment system and reporting the comment, all to no avail. In fact its probably half my problem that this is now the 4th site that comes up when you google me.
+
+I'm quite distressed about this and wondering what the hell to do. I'm currently getting background checked by a company and to have to explain this is hard. Not to mention the HR people that do the research are the type to take this shit really seriously.
+
+And kind words of wisdom or advice are very appreciated";datascience
+7z1ruq;[NO SPOILERS] IT IS KNOWN;;gameofthrones
+7z0tps;Do tech CEOs understand AI research being done in their companies?;Do you think people like Mark Zuckerberg take the time to understand the theory and math behind the AI research their teams are conducting?;datascience
+7z0r32;Starting Data Science/Machine Learning Udemy course. Kirill Eremenko or Jose Portilla?;"Hey guys, i've been playing around in python for a few weeks and know the very basics. I want to enrol in one of these courses. Either [Python for Data Science and Machine Learning Bootcamp by Jose Portilla](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/) or [Machine Learning A-Z™: Hands-On Python & R In Data Science by Kirill Eremenko](https://www.udemy.com/machinelearning/)
+
+I just want some feedback or recommendations. Which one should i do if i want to do some kaggle competitions once im finished.";datascience
+7z0mvi;For Time Series Analysis, is it ok to automate?;So I just finished the chapter in my TSA book going through the theory of PACF, ACF, and there generating functions of back shift operators and their coefficients. The main theme seems to be to remove trend, look at PACF/ACF and decide MA/AR terms, with some look at the generating functions to determine if the time series is invertible. Is this right? Also, it seems like there are packages that automate this process looking at PACF/ACF values and selecting terms based on whether the value is higher than a confidence interval, straight up giving you a model for free, and even telling you the difference coefficient. Is it considered safe to let a software package automate this process as long as you verify the PACF/ACF and GF coefficients and agree the model selection was reasonable?;datascience

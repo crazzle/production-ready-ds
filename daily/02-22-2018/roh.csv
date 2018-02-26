@@ -1,0 +1,245 @@
+id;title;selftext;subreddit
+7zj7hr;[NO SPOILERS] Is GRRM still invovled with the show?;Hey guys I know that may sound like a silly thing to say but over the past few weeks i've been looking at game of thrones and feel like Season 8 may not be what grrm intends it to be but I know he told the Writers the ending but I don't know I just have a weird feeling. Cause I want it to be the ending he wants it to be. ;gameofthrones
+7zj10t;[NO SPOILERS] Pleasantly surprised about how much I enjoyed the first book after watching the entire series first.;"Normally, I try to read the book before seeing it’s movie or television rendition; because let’s be honest, the book is always better. But honestly, I’m happy I watched the show first. It gave the breadth of characters and houses meaning. I was able to pick up on details that would’ve otherwise gone amiss. (It also helped that I listened to it on audible) 
+
+That being said, my opinion about certain characters in the book were vastly different than their character in the show. By the end, I was almost annoyed to hear their story line. 
+
+Has anyone else read the books after watching the show and had similar (or completely different) thoughts?";gameofthrones
+7zir4u;[EVERYTHING]: East of Westeros and the End of Game Of Thrones.;"I was thinking about the ending of Game of Thrones and wanted to share with you all my opinion to get some feedback and have a discussion.  While the books and the show is now on different paths I fully believe that the show will follow GRRM's ending, at least mostly.  With that in mind I think that the show will end with a few, perhaps 7, main characters leaving Westeros and finding new lands to try and settle.  Before you down-vote, hear me out.  
+
+GRRM has repeatedly said that it will be a bittersweet ending, so we know it won't be fully ""the good guys win"" or ""the good guys lose"" it will subvert our expectations.  I also subscribe to the belief that the Night King and his army of wights is an allegory for global warming.  I don't think it would be nearly as powerful if they are simply defeated, no matter how heroic or how heavy the sacrifices are, as they haven't paid enough attention to them and that in my opinion would ruin the allegory and be too predictable.  I believe that instead of killing the Night King, Jon will broker a peace deal as he has already done with tremendous success with the wildlings.  While i'm not sure how this will happen specifically I believe the agreement will be that the survivors will leave Westeros, giving it to the Night King so they can fulfill what they were created for (protecting Westeros from the Andals).  If I had to guess perhaps he learns how to communicate via Sam + Brann.
+
+I also believe that the group of people leading will be an oligarchy of seven.  Seven specifically to tie in with the religion, each of them fulfilling the roles of the seven.  If I had to guess I would say father (Jon), mother (Dany), maiden (Sansa), stranger (Arya), smith (Gendry), crone (Cersei, who will come around to protect her child), and warrior (Jaime).
+
+While i'm positive many people will disagree with me I think this would be a really interesting and unexpected ending for the show, having 7 main characters live where you expect them all to die but they all lose their home and everything they've fought for would be very bittersweet.";gameofthrones
+7ziibj;[NO SPOILERS] Rank your top 5 favorite characters.;"1. Jon Snow
+2. The Hound
+3. Tyrion Lannister
+4.Arya Stark
+5. Brienne";gameofthrones
+7zihd4;[NO SPOILERS] Hey, I did a thing!;;gameofthrones
+7zid50;[NO SPOILERS] - The Wall, built out of LEGO;;gameofthrones
+7zi6no;[d] Quarterly Financial Statements - where to find them?;"Hey,
+
+I've been looking around for stock quotes recently, and most of them are available on yahoo or google. I found out that they are not sufficient and started to look for quarterly financial statements. Although, I cannot find any good website with those. The only exception is a small amount of them on yahoo. Are there any sources of pieces of information about them? 
+
+Thanks!
+";datascience
+7zi6lt;[Everything] Cool fan made poster I saw for season 8;;gameofthrones
+7zhx4j;[EVERYTHING] McDonald's Game of Thrones Taste Test featuring the Mother of Dragons on Good Mythical More;;gameofthrones
+7zhwkb;Complete beginner. Focus on mastering excel or continue on learning r or python?;"Hi guys quick question. I'm almost done a udacity intro to data analysis using excel course and I'm also learning high school statistics using kahns acedemy but was wondering if I should now spend a few months practicing excel  or now that I know excel basics I should continue and try to learn python or r for data analysis? Of course I'm also trying to study fundamentals at the same time such as algebra, statistics and other math skills I lack. After learning what excel can do I'm sort of thinking I can do alot of good work just learning excel.
+Oh and this is mostly a hobby of mine haha I'm not trying to land a job here, maybe in the future.";datascience
+7zhnnt;[MAIN SPOILERS] Character Switch;"I'm not sure if something like this has been posted before, but during this long hiatus I've been thinking of a lot of ""What If"" situations. The one I find most intriguing is; what if Sansa and Arya were switched? What if it had been Sansa the Hound had taken for ransom, and Arya was taken by Little Finger? Obviously, LF would have little interest in Arya due to her not looking very much like her mother, and a lot of things would have to fall into place for it to happen, but. . . What If? I think Arya would have been a great ally for Jon before the Battle of the Bastards, and Sansa may have perished once the hound wasn't her protector. 
+
+Any other character switches you would find intriguing? ";gameofthrones
+7zh69h;If someone is wrong more than they're right, is their opinion still valuable?;"*Disclaimer: I have no background in data science other than a bit of an interest in it. If I am missing basic concepts, it's not because I'm ignorant, I simply haven't been exposed to them yet, so please, teach me!*
+
+I've been working on a program that combines input from various experts on MMA to predict the probability of each fighter in a match-up winning (output as American betting odds, with the eventual goal of picking bets). As I've expanded to include more sources (I'll have anywhere from 10-30 picks depending on the significance of the fight), I've noticed that some predictors seem to be below 50% accurate; this is just from eyeballing the data and evaluating small samples, I have not yet gone back and extensively evaluated individual sources.
+
+Assuming that my hunch is right and some are picking wrong more than right, does this affect how or even if I should use their input? As it exists, there is no differentiation between the sources; every source is weighted equally and combined to reach the final output.
+
+On one hand, this makes me feel like I'm diluting my best sources, and therefore making the implied odds less accurate.  I am only taking their input on who would win, nothing else, so 50% accuracy almost makes their input feel detrimental. In some ways, output based on only those that meet a certain standard of accuracy seems more useful.
+
+On the other hand, picking MMA fights is HARD. There isn't a system like in most sports where each team plays a large, mostly-randomized selection of other teams, leading to occasional games that even a novice could predict the outcome of. MMA matches are each selected by an experienced matchmaker and need to be agreed on by both fighters. Essentially, a fight that's easy to predict is a poorly made match, and quite rare. In addition, because of the large variety of skills used in MMA, and the virtually infinite number of ways they can interact, even a severe underdog can find a path to victory. Because of this, the number of predictors who maintain even 55% accuracy are relatively rare, so my sample size would be quite small. Also, even if someone is wrong 60% of the time, doesn't that mean that a consensus between them and the high-quality predictors is even more significant and implies a less even matchup?
+
+
+
+These are the solutions I see:
+
+* A) Continue combining each source equally.
+
+* B) Remove any sources below a certain threshold of accuracy.
+
+* C) Sort the sources into tiers based on their accuracy, and output different odds based on the different combinations. For example, there would be one set of odds from only the most accurate of predictors, another set including mid-tier and up, and another set using everybody's input.
+
+* D) Evaluate each source individually and weight their sway on the outputted odds according to their accuracy. This option is far from applicable as my program works currently, and modifying it to work that way would be very time-consuming, not just initially, but also to maintain. However, as my coding knowledge expands, this may become more viable, and even in its current state, there may be something I can learn from your responses to this option or some aspect of this option I can incorporate. Just, y'know, explain your reasoning, or pick a second option.
+
+
+How would you approach this?";datascience
+7zgvvm;#Tooling - Data scientists.. I have subjects' ranks for particular characteristics of product. Suggestions on how to analyse/present?;I have individual level rankings for 15 participants and 10 characteristics of a particular product. Obviously I can do some basically statistics to describe the data, but wondering if you data science folks might have some cool suggestions about what I could do, and/or how to present the data. Thanks in advance! ;datascience
+7zg0ii;Anyone ever do a data audit?;"So my organization has brought up doing an audit of our data.  I think it's a fantastic idea and worth pretty much any time/expense, as the organization wants to move to become increasingly data driven.  I believe that a thorough understanding and catalog of our data, how/where it's stored, how it's used and by whom is essential to that desire.
+
+However, I've never been involved in a data audit before, so I'm not 100% sure where to begin.  
+
+Does anyone have any experience auditing their data that they would be willing to share with me?  Insights, cautions, anything?  Suggestions?  Questions?";datascience
+7zg012;Let’s talk about salaries.;"Right now I’m working as an intern/co-op in an environmental company in Health and Safety (H&S) making $18/hr doing some administrative work and some basic statistical work with injury data. (Doing basic statistics, finding trends, making bar graphs, pie charts, simple analysis, root cause analysis of injuries, running reports, document management, working with the incident management database and pulling data, updating the intranet site (some html required here), lots of Excel work. 
+
+In one month I will be converted over to full time with a salary of ($58k with benefits: 3 weeks’ vacation, 401k, dental/vision/health, 7 sick days, occasional work from home, flexible hours). I will have the same duties plus some additional duties such as conducting trainings on the various database systems we use and some safety trainings for field workers. This is an excellent offer and I’m glad that they’re being so generous (especially with vacation time). 
+
+However, my question is about entry level data science/statistics salaries. Right now I’m doing a part time Masters in Applied Statistics, which I will complete in 2 years. When I look at these jobs they usually have so many requirements. It seems like the more serious statistics and “data science” jobs require a huge amount of knowledge: (R, SAS, Python, SQL, Tableau, programming experience, Master’s degree or higher, 5+ years of experience, etc…). 
+
+Yes, the salaries are going to be high like low 6 figures for the top 10%. But my question is what kind of salaries and benefits can a graduate expect with a Master’s degree and 0 years of serious statistical job experience? (I’m looking for an estimate the reflects the bottom 10% or 25% of statisticians/data scientists since I’m nowhere near the top 10% or even 50%). If it’s lower than $58k and worse benefits, it might not be worth it for me to get a job in statistics/data science, idk. Maybe it’s worth it in the long run. We’ll see in 2 years when I finish my Masters. 
+
+If anyone is working as a statistician/data scientist/data analyst/business analyst, I would like to know how much you earned when starting out as entry level after graduating. Also, how is the working environment in your job (is it stressful? Work life balance?) And what kind of benefits do you get? Thank you for your time. 
+";datascience
+7zfzum;[EVERYTHING] Bran and the Three Eyed Raven;"I've rewatched seasons 6 and 7 a couple of times in sequence since the end of season 7 and I've been wondering about Bran's personality. In season 6 in ""Blood of My Blood"" and Bran and Benjen are reunited, Bran is still basically Bran. The way he talks and the way he's trying to understand everything. I'm still just trying to understand what exactly happened between the two seasons that would completely remove Bran's personality and only have him answer as ""The Three Eyed Raven"". He seems happy to see Benjen and glad that he's alive, but his reunions with Sansa and Arya are dry and weird. As he progresses from seeing the truth about Jon and his journey with Meera through the wall and down to Winterfell, does he just turn more and more into the TER? It's just a consistency issue and I'm wondering how others feel about this. ";gameofthrones
+7zfn95;Any good mac/pc applications for data science-related work?;Are there any apps that come in handy in your every day data science-related work, be it for organization, something that helps your workflow, etc.?;datascience
+7zfgls;HELP - What model to choose when dealing with dependant observations ?;"Hi ! I'm trying to build a model for arterial blood pressure using a set quantitative parameters.
+The problem is that I have several observations from the same subjects which create a dependance between these observations.
+Which model should I choose to account for this dependance ?
+Thx for your help !
+
+EDIT : The design is the following : I have collected arterial pressure in patient at different times. For each of these measures, i have a set of predictors extracted from a signal. I'm trying to fit a linear model with these predictors to predict arterial pressure.";datascience
+7zffna;[NO SPOILERS] Margaery Tyrell by Alice Zhang;;gameofthrones
+7zeof2;Help - trying to build a guide comparing machine learning algorithms against each other in detail.;"Hi, I'm starting to learn data science and am trying to relate the mathematical properties of algorithms to their practical usage.  I have been trying for a while to look for a comprehensive comparison of algorithms, something like this (http://www.dataschool.io/comparing-supervised-learning-algorithms/), but MUCH more comprehensive. 
+
+For instance, imagine a table with columns corresponding to algorithms (KNN, linres, logres, svm, nn, tree, random forest, gbm...), and these items below as rows. 
+
+I'd like to eventually build this kind of comprehensive ""cheat sheet"". Are there good resources anyone can point me to?
+
+FUNCTIONALITY
+
+- is determininistic
+- requires linearity
+- supports incremental learning
+- is parametric 
+- difficulty of parameter tuning
+- unique data assumptions (e.g. heteroskadicity for linear regression)
+
+PERFORMANCE
+
+- accuracy
+- bias (propensity to underfit)
+- variance (propensity to overfit)
+- training speed
+- prediction speed
+- memory footprint
+
+DATA PARAMETERS
+
+- small sample size performance
+- large sample size performance
+- small feature size performance
+- large feature size performance
+- high feature : sample ratio
+- sensitivity to noise
+- handling of irrelevant features
+- handling of correlated features
+- handling of features with different scales
+- automatic learning of feature interactions?
+- sensitivity to outliers
+- sensitivity to high-cardinality features
+- handling of missingness
+- handling of categorical variables
+- Handling of time series data
+- Handling of autocorrelated / seasonal data
+- Handling of sparse data
+
+DATA PARAMETERS (CLASSIFICATION)
+
+- handling of imbalanced data (rare class)
+- supports probability gradient for classification
+- handles multiclass classifications?
+
+PRESENTATION
+
+- interpretability (by you)
+- explainability (to others)
+
+";datascience
+7ze4kf;Examples of end-to-end projects?;"I'm trying to learn the tools of data science, mostly through YouTube videos. Whilst I find that this is very good for learning how to use a particular tool, package, program, or algorithm, I feel like something is lacking in my understanding. What I'm really looking for is a series of videos or blog posts that show someone going all the way from initial data to final ""product"" (whatever that might be), including initial investigations, applying ML algorithms, and visualizations. I think that this would help me better piece together in my mind the way everything fits together.
+
+Has anyone got any recommendations for where I can find something like this?";datascience
+7ze0ty;The path to landing a data Science Job: the final phase!;"Hi /r/datascience!
+
+Few months ago I have started my learning path to become a data scientist. I had no prior knowledge of programing or data science, so I turned to my friends at reddit for help. After making posts like [this](https://www.reddit.com/r/dataanalysis/comments/6sffln/i_want_to_become_a_data_analyst_help_me_find_my/), [this](https://www.reddit.com/r/SQL/comments/7274ix/what_is_the_best_place_to_learn_sql/) and [this](https://www.reddit.com/r/datascience/comments/7oy286/sql_for_data_science_help_on_my_learning_path/), I have dedicated myself for months and learned what you suggested.
+
+&nbsp;
+
+Right now I'm at the final phase, interviewing,and since I'm not being successful as other people here seemed to be, I turn to you guys again. First of all, let me give you some starting info:
+
+* I am a brazilian, 28 yr, mechanical engineer **living in London** and fully dedicated to becoming a data scientist.
+* I have done the Data Science Specialisation on Coursera. This is a very long course that covers from R programming to statistical inference, practical machine learning and regression models.
+* I have done sqlzoo and codeacademy tutorials on SQL.
+* I have developed a portfolio on github. It has 4 project atm (1 nlp, 1 Class RF, 1 Reg RF and simple one of data importing and structuring).
+* Right now I'm doing the Stanford [Machine Learning Course](https://www.coursera.org/learn/machine-learning) by Andrew Ng.
+
+&nbsp;
+
+This is the study path that I have followed so far. Since January I have been actively looking for **junior/graduate data scientist/analyst** roles in reed, linkedin and it recruitment agencies.
+The problem is that I feel like the response haven't exactly been overwhelming. I have done some phone screenings, but only got 1 interview with a manager (and it was by the phone). And they ended up choosing someone else with more experience.
+
+&nbsp;
+
+I usually do good in interviews, it has never been a problem for me in the past and I don't feel its a problem now (haven't done any technical interviews yet). **What am I missing here? Is it my experience? I starting to think it might be my portfolio or my past experience (which you can check [here](https://www.linkedin.com/in/danilodaraujo/)).** Keep in mind that I'm going for junior/graduate roles.
+
+**I'm legitimately trying to find ways to improve myself/my cv/my portfolio.**
+I have done so much already, any help welcome!";datascience
+7zdrwr;How important is linear algebra for data science?;"I'm in my second year of university in Australia and am planning on majoring in statistics. I've done what seems like the equivalent of linear algebra 1, most of calc 1-3, a discrete math course, and a probability and statistics course.
+
+I was lucky enough to get into a program which allows me to triple major, so my other 2 majors are finance, and business analytics (Business related stats, modelling, and programming with python. Not too in-depth in any of them though it seems).
+
+I have 2 math electives in my degree, and I’m trying to decide between financial math courses (not sure if I’m going overkill on the finance), or linear algebra.
+
+Would the linear algebra be particularly useful if I was thinking of going towards the data science route?";datascience
+7zd38k;Can you get into data science with a Master's in Bioinformatics?;"Hey guys,
+
+I was wondering if it is possible to obtain a data analyst/data scientist position with a Bioinformatics Master's degree (especially if my undergrad degree was in Biology instead of Computer Science or Statistics). While my main career goal is to go into bioinformatics, it would be nice to have wider job opportunities in the future (especially for geographic reasons) instead of being confined to a relatively niche field (compared to general data science). Can anyone here speak to the overlap/transition between the two fields? Has anyone here had any experience transitioning into a data science role from a bioinformatics background? Do employers only look at candidates with Computer Science or Statistics academic backgrounds, or are Bioinformatics candidates considered with equal weight?";datascience
+7zcxt9;Was laid off 2 months ago from my first real DS job and have 5-6 more months of money left. Have had several interviews with varying success so far...is it normal to have the first few technical interviews kinda suck and end up as a reminder of what you need to brush up on? Any advice?;"The TL;DR of my situation is I was a part of a massive layoff (>90% of the workforce) at my previous company (~120 employees) where I primarily worked on deep learning/neural nets (Tensorflow) for segmentation and classification on MP4 files for about 10 months. At this point, I've got enough money for about 5-6 months, so I'm growing really worried.
+
+As you can imagine, my work experience thus far is somewhat specialized (though I've got some pretty cutting-edge deep learning experience for my level that could be applicable anywhere). As such, my experience with the ""typical"" data science work (both algorithms and data) is lacking, so naturally I'm looking to shore those weaknesses up.
+
+I think my resume/project experiences are solid which is why I think I've landed several interviews reasonably well, and I can generally communicate and thoroughly describe my previous work quite well, but sometimes I can stumble with some of these broad technical questions on things I've never done before; often times I have a general idea or awareness of the concepts, but falter on the specifics.
+
+It always seems there's a few questions that would be easy to remember/consider if I had the experience/exposure but it's clear that I don't (and obviously looking to gain it). It's hard to review and remember everything, especially when my work experience has been so far and away from a lot of these topics. Vague job descriptions don't help either. I've been trying to shore up some of these weaknesses that have surfaced throughout while juggling recruiters, interviewing and applying, but so far it still feels like there's always more to shore up.
+
+Granted I'm talking about all this over the course of those 3-4 technical interviews I'm still waiting to hear back from (but have a good feeling I sucked at) and I still have a few others coming up, but I'm really worried that I'll throw all my opportunities away eventually if it keeps happening, especially since I'm out of work and being out of it for a long time becomes more hazardous.
+
+I could really use some advice. A few questions if anyone has the time: 
+
+- Should I consider just finding any job, if even just tangentially related or a ""lower level"", so I can rest easier for job hunting later? Maybe even consider an easy part time job in the meantime? (retail for example...have experience in it)
+- Any tips on what to review? 
+- Your job interviewing experiences (and how long it took to land a job)?
+- What's a reasonable/expected gap of employment in this field while looking for [related] work?
+
+Thanks everyone!";datascience
+7zchm4;Will my job lead to a dead end?;"I was just employed two months ago as a Data Analyst. I started at an entry level Advanced Excel 'Data Analysis Specialist' six months prior, and that was the beginning of my business intelligence analyst route I wanted to accomplish.  
+  
+I started studying deeply into programming (Python, vbscript, VBA) along the way, also studying databases, SQL, and Tableau.  
+  
+The company culture was presented very well and I am appreciative of it. But my expectations overshot the reality. I'm young and I wanted to be in a less stagnant environment (it's slow season however). The work as a Data Analyst I do now seems relatively further than what I see and want to do as a Data Analyst.  
+  
+The company mainly means Data Analyst for only one stream of data collected (planes). I initially had thought I would enjoy this since I studied aviation in college, but I wanted to steer towards organizational support, operational analysis, marketing, social media platforms, products, and cost optimization. I am never going to contribute a division or organizational recommendation with this position..  
+  
+Am I too early to judge for it to be a dead end? My 5 year plan is to be a business intelligence analyst, and this may steer me away from that, speaking in terms of job responsibilities and day to day tasks.
+  
+If you could offer any advice, I thank you in advance. Thanks for reading!";datascience
+7zbttx;[EVERYTHING] Was Game of Thrones Season 7 a Disappointment?;;gameofthrones
+7zbgvb;what's your workflow for source control when working on a remote server?;"things i've tried:
+
+ * set up ssh access to github on the remote (a bit annoying if the remote is transient since this involves either reusing ssh keys or screwing around in github web app)
+ * editing the file locally and having some sort of hook to scp and run (often get myself confused with which direction i'm copying although probably could get this workable if i wrote some bash scripts)
+ * emacs ""remote mode"" (haven't actually tried this, is it worth it?)
+";datascience
+7zbgsg;Msc. Data Science in the UK or Ca;Long story short, I wanted to a MSc in Data Science but wasn't sure where I should do it. I have a B.Sc in Actuarial Science and wanted to pursue a masters in data science as it is interesting and hot right now. My question is where is the ideal place to do it as someone who wants to the master in Ca or UK and hopefully immigrate their permanently.;datascience
+7zaep5;[Main Spoilers] Benjen Stark?;"Does anyone know what exactly Benjen Stark is while/after he saves Brandon Stark?  He says that the undead cannot pass the wall due to the magic in it, and that means he cannot cross.  I'm thinking it's safe to assume that the Night King didn't revive him, because he wouldn't be in control.  Was it the Children of the Forest?  Did they improve upon the techniques they used to create the Night King?  Was it the Lord of Light?  (I say this because of his badass flaming morning star)
+
+Do the books cover this better?";gameofthrones
+7zaeen;Is it too late for me?;"I’m currently a junior at a university in a large Midwest city studying business management with a concentration in sports, as well as a minor in marketing. I’m 16 credit hours from graduating. I’ve held internships for my schools athletic department and a small time professional team in sports marketing capacities. I’ve also done a summer consulting experience in California working with another small time professional sports team. 
+
+
+I’ve played sports all my life and near the end of high school I realized I’d like to turn that passion of mine in to a career. Through my work at internships, I’m realizing now that a marketing/management route might not be what I was meant to do. 
+
+
+Ever since I took my first statistics class in high school, I loved it. I’m a very average student, but it was probably one of the only classes I excelled in. I never gave any thought to majoring in computer or data science, I thought I just wanted to work in sports and that would make me happy. 
+
+
+I was doing some research on internships today for marketing. There is a company locally that does industry leading work in sports analytics. I don’t know exactly what it was, but it was an eye opener for me...”Why would I want to do a marketing internship for an organization who does some really cool stuff? I’d rather be the one doing the analytics.”
+
+
+So I started doing some research in what I can switch up between now and graduation to at least gain some understanding of computer science...changing my major is out of question. I can change my marketing minor to a computer science or data science/analysis minor (crammed). Graduate school can be an option.
+
+
+I just want to learn about this industry, I know I have a passion for analytics. I’ve never done computer science in any capacity though.
+
+
+I was telling my uncle all of this over dinner recently and he explained that his brother is an EVP for an insurance company in the city and a lot of what he needs is data analysts and such. He wants me to meet him and believes he would be willing to help me out and open the door in to the industry for me. 
+
+
+One day I want to work within sports analytics, but I know I can’t expect that right away. I know I need to learn, work in a different industry and create a portfolio/network for myself. I get all of that. I just don’t really know what my next step is.
+
+
+I guess I’m just at a crossroad and I really don’t know what to do and would love some advice.
+
+
+TLDR: I’m nearing the end of a degree that I don’t think I want to be in necessarily. I have no educational background in computer science/data science. I don’t know what my next step is. ";datascience
