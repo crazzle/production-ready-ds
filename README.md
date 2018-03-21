@@ -1,6 +1,15 @@
 # Big Data mit Luigi und Python
 Der Beispielcode zum Artikel "Vom Data Science Projekt zu produktionsreifem Code mit Python und Luigi"
 
+## Requirements installieren
+Die Pipelines nutzen verschiedene Python Pakete, von Luigi über Pandas zu NLTK und PySpark. Die Pakete können mit
+
+```bash
+pip install -r requirements.txt --user
+```
+
+installiert werden.
+
 ## Training
 *00_training_pipeline.py* enthält den Code für die Trainingspipeline.
 
