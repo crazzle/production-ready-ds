@@ -1,8 +1,5 @@
 scikit-learn
 scipy
-matplotlib
-jupyter
-jupyterlab
 praw
 luigi
 pandas
